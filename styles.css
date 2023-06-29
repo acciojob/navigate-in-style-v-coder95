@@ -1,9 +1,9 @@
 /*  your css code here. If applicable */
 ul{
-	list-style-type: none;
+	display:flex;
 	
 }
-li{
+.container{
 	display: inline;
 	padding:10px;
 	background-color:#D3D3D3;
